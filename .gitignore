@@ -2,3 +2,9 @@ __pycache__/
 .env
 *.whl
 *.tar.gz
+*.pyc
+*.pyo
+*.pyd
+.env
+*.db
+.cache/
